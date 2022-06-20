@@ -39,6 +39,8 @@ I've concieved, designed, developed, supported and sold several enterprise grade
 <img src="Badges/devops.png" width="100px"></img>
 <img src="Badges/azureai900.png" width="100px"></img>
 
+🙌 I also recently passed my certifications for GitHub Actions, GitHub Admin and GitHub Advanced Security 🥳
+
 **I try to hang out with these fools**: (...cue the MySpace Top Friends throw back...)<br/><br/>
 <a href= "https://github.com/bdunks"><img src="https://avatars.githubusercontent.com/u/8967939?v=4" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
 <a href= "https://github.com/jgarverick"><img src="https://avatars.githubusercontent.com/u/2940856?v=4" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
