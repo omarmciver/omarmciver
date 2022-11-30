@@ -1,6 +1,6 @@
-- 👋 Hi, My name is Omar McIver and I'm a **Senior Application Modernization Architect** and part-time **Cloud Economist** at [Cognizant's Microsoft Business Group](https://www.cognizant.com/cognizant-digital-systems-technology/cloud-enablement-services/microsoft-business-group)
+- 👋 Hi, My name is Omar McIver and I'm a **Microsoft Certified Trainer**, **Cloud Solutions Architect** and **Cloud Economist**
 
-- 👀 I’m interested in Azure, Kubernetes, Docker, C#, .NET Core, Microservices, Domain Driven Design, Entity Framework Core, NoSQL, DevOps and alot more!
+- I've definitely made friends and frenemies at [Microsoft](https://github.com/microsoft) in recent years with my efforts to make customer spend more efficient
 
 - 🌱 I’m currently learning everything I can get my hands on!!
 
@@ -23,6 +23,8 @@
 - Microservice development
 - Domain Driven Design
 - Event Driven Architecture
+- Entity Framework Core
+- NoSQL
 - Cloud Cost Analysis (and FinOps)
 - Blockchain structures
 - Full culture DevOps
