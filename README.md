@@ -16,7 +16,7 @@
 
 **I love playing with:**
 
-- C# .NET Core 5,6 + (SOLID Principles FTW!)
+- C# .NET Core 5,6,7 + (SOLID Principles FTW!)
 - VSCode (especially with development containers)
 - Kubernetes
 - Docker and Docker Compose
