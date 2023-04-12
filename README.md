@@ -45,12 +45,6 @@ I've concieved, designed, developed, supported and sold several enterprise grade
 
 🙌 I also hold certifications for GitHub Actions, GitHub Admin and GitHub Advanced Security 🥳
 
-**I try to hang out with these fools**: (...cue the MySpace Top Friends throw back...)<br/><br/>
-<a href= "https://github.com/bdunks"><img src="https://avatars.githubusercontent.com/u/8967939?v=4" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
-<a href= "https://github.com/jgarverick"><img src="https://avatars.githubusercontent.com/u/2940856?v=4" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
-<a href= "https://www.linkedin.com/in/williamrussellnorton/"><img src="https://media.licdn.com/dms/image/D4E03AQH8f77KpVHScg/profile-displayphoto-shrink_400_400/0/1677852687170?e=1686787200&v=beta&t=gD1YG66NrK8nbRQ74oJsCOL7Qnn_55DKcP_gCyJ3agc" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
-<a href= "https://www.linkedin.com/in/peter-easler-39869212a/"><img src="https://media.licdn.com/dms/image/C5603AQFqrrO4ZjZV8w/profile-displayphoto-shrink_400_400/0/1518900502286?e=1686787200&v=beta&t=j8jzrPymiKEqA4QL9CXDSUY6G_45A34kWGU7yae83eI" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
-
 **All views are my own, and do not represent those of my employer!**
 
 <!---
