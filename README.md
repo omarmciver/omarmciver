@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning everything I can get my hands on!!
 
+- I wrote a [book](https://www.amazon.com/stores/author/B0BW5C8SZP/allbooks?ingress=0&visitId=160370f3-6405-4f64-8f11-c205ef55b268&store_ref=ap_rdr&ref_=ap_rdr).. now I'm thinking about my next one...
+
 - I 💓 writing code in .NET C#
 
 - I will dabble with every other type of language or scripting that I can!
@@ -41,13 +43,13 @@ I've concieved, designed, developed, supported and sold several enterprise grade
 <img src="Badges/devops.png" width="100px"></img>
 <img src="Badges/azureai900.png" width="100px"></img>
 
-🙌 I also recently passed my certifications for GitHub Actions, GitHub Admin and GitHub Advanced Security 🥳
+🙌 I also hold certifications for GitHub Actions, GitHub Admin and GitHub Advanced Security 🥳
 
 **I try to hang out with these fools**: (...cue the MySpace Top Friends throw back...)<br/><br/>
 <a href= "https://github.com/bdunks"><img src="https://avatars.githubusercontent.com/u/8967939?v=4" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
 <a href= "https://github.com/jgarverick"><img src="https://avatars.githubusercontent.com/u/2940856?v=4" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
-<a href= "https://www.linkedin.com/in/williamrussellnorton/"><img src="https://media-exp2.licdn.com/dms/image/C4E03AQHnpZmEkRj5rw/profile-displayphoto-shrink_200_200/0/1632680328428?e=1660780800&v=beta&t=67AGAXKOVjJtzVcLNKzg-MDDj3p2hVgkcSMXToDGVqY" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
-<a href= "https://www.linkedin.com/in/peter-easler-39869212a/"><img src="https://media-exp2.licdn.com/dms/image/C5603AQFqrrO4ZjZV8w/profile-displayphoto-shrink_200_200/0/1518900502286?e=1660780800&v=beta&t=EORXuG2BNLoz0wQH_3tsYz_kAW90LNnmsxfA8U7PuEo" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
+<a href= "https://www.linkedin.com/in/williamrussellnorton/"><img src="https://media.licdn.com/dms/image/D4E03AQH8f77KpVHScg/profile-displayphoto-shrink_400_400/0/1677852687170?e=1686787200&v=beta&t=gD1YG66NrK8nbRQ74oJsCOL7Qnn_55DKcP_gCyJ3agc" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
+<a href= "https://www.linkedin.com/in/peter-easler-39869212a/"><img src="https://media.licdn.com/dms/image/C5603AQFqrrO4ZjZV8w/profile-displayphoto-shrink_400_400/0/1518900502286?e=1686787200&v=beta&t=j8jzrPymiKEqA4QL9CXDSUY6G_45A34kWGU7yae83eI" width="100px" style="padding: 5px;border: solid 1px white;"></img></a>
 
 **All views are my own, and do not represent those of my employer!**
 
