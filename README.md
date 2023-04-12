@@ -1,10 +1,10 @@
 - 👋 Hi, My name is Omar McIver and I'm a **Microsoft Certified Trainer**, **Cloud Solutions Architect** and **Cloud Economist**
 
-- I've definitely made friends and frenemies at [Microsoft](https://github.com/microsoft) in recent years with my efforts to make customer spend more efficient
+- 🪟 I've definitely made friends and frenemies at [Microsoft](https://github.com/microsoft) in recent years with my efforts to make customer spend more efficient
 
 - 🌱 I’m currently learning everything I can get my hands on!!
 
-- I wrote a [book](https://www.amazon.com/stores/author/B0BW5C8SZP/allbooks?ingress=0&visitId=160370f3-6405-4f64-8f11-c205ef55b268&store_ref=ap_rdr&ref_=ap_rdr).. now I'm thinking about my next one...
+- 📖 I wrote a [book](https://www.amazon.com/stores/author/B0BW5C8SZP/allbooks?ingress=0&visitId=160370f3-6405-4f64-8f11-c205ef55b268&store_ref=ap_rdr&ref_=ap_rdr).. now I'm thinking about my next one...
 
 - I 💓 writing code in .NET C#
 
