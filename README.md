@@ -18,33 +18,41 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-`C#` `.NET Core` `Kubernetes` `Docker` `Microservices` `DDD` `EDA` `EF Core` `NoSQL` `FinOps` `Blockchain` `DevOps`
-
----
-
+<!-- Certifications -->
 ## 📚 Certifications
 
-<!-- Your badges here -->
+<img src="Badges/azuresa.png" width="100px" alt="Azure Solutions Architect Badge"> <img src="Badges/cks.png" width="100px" alt="Certified Kubernetes Security Specialist Badge"> <img src="Badges/cka.png" width="100px" alt="Certified Kubernetes Administrator Badge"> <img src="Badges/MCT.png" width="100px" alt="Microsoft Certified Trainer Badge"> <img src="Badges/finops.png" width="100px" alt="FinOps Badge"> <img src="Badges/devops.png" width="100px" alt="DevOps Badge"> <img src="Badges/github-advanced-security.png" width="100px" alt="GitHub Advanced Security"> <img src="Badges/github-administration.png" width="100px" alt="GitHub Administration"> <img src="Badges/github-actions.png" width="100px" alt="GitHub Actions"> <img src="Badges/azureadmin.png" width="100px" alt="Azure Admin Badge"> <img src="Badges/azureai900.png" width="100px" alt="Azure AI Fundamentals Badge">
+
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-<!-- Links to your projects -->
+### 💻 Programming & Frameworks
+- `C#`
+- `.NET Core`
+- `Java`
+- `JavaScript (ES11)`
+- `ReactJS`
+- `Next.js`
 
----
+### 🐳 Containers & Orchestration
+- `Docker`
+- `Kubernetes`
 
-## 🗣️ Testimonials
+### 🏗️ Architecture & Data
+- `Microservices`
+- `Domain Driven Design (DDD)`
+- `Event Driven Architecture (EDA)`
+- `Blockchain`
+- `Entity Framework Core (EF Core)`
+- `NoSQL`
+- `CosmosDB`
 
-<!-- Any quotes or endorsements -->
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- List of your latest blog posts -->
+### 🚀 DevOps & Operations
+- `FinOps`
+- `GitHub`
+- `Azure DevOps`
 
 ---
 
