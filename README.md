@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Omar McIver
 
+- ☕ [Would you like to buy me a coffee?](https://www.buymeacoffee.com/omarmciver).
 - 🏆 **Microsoft Certified Trainer**, **Cloud Solutions Architect**, **Cloud Economist**
 - 🪟 Making friends and frenemies at [Microsoft](https://github.com/microsoft) by optimizing cloud spend.
 - 🌱 Currently diving deep into AWS and GCP cost management.
