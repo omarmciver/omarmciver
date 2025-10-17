@@ -2,8 +2,8 @@
 
 - ☕ [Would you like to buy me a coffee?](https://www.buymeacoffee.com/omarmciver).
 - 🏆 **Microsoft Certified Trainer**, **Cloud Solutions Architect**, **Cloud Economist**
+- 🤖 Killing it with AI productivity and automation with [Mode3](https://www.mode3.ai) the new frontier is blowing up!💥💥💥
 - 🪟 Making friends and frenemies at [Microsoft](https://github.com/microsoft) by optimizing cloud spend.
-- 🌱 Currently diving deep into AWS and GCP cost management.
 - 📖 Author of [this awesome book](https://www.amazon.com/stores/author/B0BW5C8SZP/allbooks). Stay tuned for the next one!
 - 💻 Madly in love with .NET C#
 - 🛠️ Willing to dabble in any language or script.
